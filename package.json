@@ -1,0 +1,15 @@
+{
+    "name": "iscroll",
+    "description": "Smooth scrolling for the web.",
+    "version": "4.2.5",
+    "main": "iscroll",
+    "repository": "git://github.com/ecomfe/dep-iscroll.git",
+    "maintainers": [
+        {
+            "name": "Firede",
+            "email": "firede@firede.us"
+        }
+    ],
+    "license": "MIT",
+    "bugs": "https://github.com/ecomfe/dep-iscroll/issues"
+}
